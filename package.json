@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "decred-bitcore-mnemonic",
   "version": "1.1.1D",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/decred/bitcore-mnemonic.git"
+    "url": "https://github.com/horus20/bitcore-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
